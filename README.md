@@ -38,5 +38,5 @@ This is a [Repo](https://github.com/Waletee/alx-higher_level_programming) that r
 
 This is free to use, just kindly give me credit for your usage.
 
-# ![Envisol](https://imgur.com/a/8WKQjjx)
+# ![Envisol](https://imgur.com/a/8WKQjjx.jpg)
 
