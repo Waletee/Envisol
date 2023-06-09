@@ -1,6 +1,6 @@
 # ![Envisol](https://imgur.com/a/8WKQjjx)
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="tH2tU1a"><a href="https://imgur.com/tH2tU1a">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[img]https://i.imgur.com/tH2tU1a.png[/img]
 
 [Envisol](http://envisol.waletee.tech/) Envisol (Environmental Solution) is a cummunal social media platform where every concerned citizen of a community can come together to share/air their own ideas and ways to make their respective community a more better and condusive environment for all to livepeacefully with also finding a way to solve their cummunalchallenges/needs with minimal government involvement.
 
