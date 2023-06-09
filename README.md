@@ -1,4 +1,4 @@
-# ![Envisol!](https://i.imgur.com/8WKQjjx.png)
+# ![Envisol!](https://i.imgur.com/tH2tU1a.png)
 
 
 [Envisol](http://envisol.waletee.tech/) Envisol (Environmental Solution) is a cummunal social media platform where every concerned citizen of a community can come together to share/air their own ideas and ways to make their respective community a more better and condusive environment for all to livepeacefully with also finding a way to solve their cummunalchallenges/needs with minimal government involvement.
@@ -9,6 +9,7 @@
 
 I’m Taiwo Abiodun by name and i hail from Nigeria, Africa. Prior to enrolling for Software Engineering with ALX I had no experience with coding or computer programming. I am always enthusiastic about technology which made me learn how to install and service electronic security equipments, before adding IT support to what I do. I have a passion for creating products that connect, enhance and empower others. I used my learn't skills on the back-end and front-end to create Envisol.
 
+Here are my Social Contacts:
 [Github](https://github.com/Envisol)
 [LinkedIn](https://www.linkedin.com/in/abiodun-taiwo-5723b7106/)
 [Project Blog Article](https://medium.com/@taiwobiodun/envisol-social-d7f41388942)
@@ -17,7 +18,7 @@ I’m Taiwo Abiodun by name and i hail from Nigeria, Africa. Prior to enrolling 
 
 ### Tools
 
-# ![Tools](https://i.imgur.com/S02rI8T.png)
+# ![Tools](https://i.imgur.com/CEY8GHp.png)
 
 ### Architecture
 
