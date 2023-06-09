@@ -40,3 +40,7 @@ This is a [Repo](https://github.com/Waletee/alx-higher_level_programming) that r
 
 This is free to use, just kindly give me credit for your usage.
 
+## Future
+This app those not work with all the proposed pictures, but it was my first try at anything web-application, i would make some more changes and developments to the application. Adding more features like post authentications, search option to search for posts with some key words, adding more style to it and making it more easy to navigate for users, adding like option to post and the options for users to recieve update alerts to the posts they liked.
+
+Am open to future collaborations and any suggestions to this project, please feel free to reach out to me.
